@@ -17,5 +17,7 @@ d) A proteção contra interrupções e falhas técnicas.
 Atividade em grupo:
 Pesquise na internet, ou outra mídia que preferir, uma notícia que envolva um crime cibernético recente no Brasil. Aponte as características deste ataque e qual ou quais pilares da Segurança da Informação foram afetados.
 
+Exemplo internacional: https://www.avast.com/pt-br/business/resources/atlanta-ransomware#pc
+
 Enviar repositório com as atividades do Tema 1 para: https://almeida-cma.github.io/receber/
 
